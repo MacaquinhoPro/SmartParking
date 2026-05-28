@@ -202,8 +202,8 @@ Datos generados por el IDE Arduino al verificar/cargar el sketch:
 
 | Memoria | Usado | Total | Porcentaje |
 |---------|-------|-------|-----------|
-| Flash (programa) | ~812 KB | 4 MB | ~62% |
-| RAM (SRAM) | ~234 KB | 520 KB | ~45% |
+| Flash (programa) | ~350 KB | 4 MB | ~80% |
+| RAM (SRAM) | 100 KB | 520 KB | ~20% |
 
 > Los valores exactos se actualizan con cada compilación. El IDE muestra la línea:
 > `Sketch uses XXXXX bytes (XX%) of program storage space.`
